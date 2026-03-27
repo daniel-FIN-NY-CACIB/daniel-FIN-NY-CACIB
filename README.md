@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daniel-FIN-NY-CACIB, head of the Financial Analysis Team @ Credit Agricole CIB Americas
+- 👋 Hi, I’m @daniel-FIN-NY-CACIB, head of the CFO Solutions Team @ Credit Agricole CIB Americas
 - 👀 I’m interested in contributing and collaborating in various Open Source Projects
 - 🌱 The team and I are currently working on no-code/low-code OS solutions for process automation using Excel (VBA) and Python
 - 💞️ I’m looking to collaborate on any Open Source Projects of interest; Particular focues on Django, Process Automation/RPA, ML/AI, and Data Science
